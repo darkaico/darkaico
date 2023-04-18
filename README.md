@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Typeform
+- 🔭 I’m currently working at Wallapop
 - 🤓 Python / Ruby as preferred languages
 - 🌱 I’m currently learning about react
 - 💬 Ask me about python, django, ruby, rails, APIs and architecture
